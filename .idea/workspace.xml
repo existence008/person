@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d614c5a2-646f-4618-a00d-24752a37a785" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/0dab58047ed211e39686129d69e7bd65_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/0dab58047ed211e39686129d69e7bd65_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/621b77142f7411e39a8f22000a9f195b_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/621b77142f7411e39a8f22000a9f195b_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/666afbec30d111e396cd22000a1fd1c2_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/666afbec30d111e396cd22000a1fd1c2_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/961ff1b04a0a11e3b98b126fa4e6a4fb_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/961ff1b04a0a11e3b98b126fa4e6a4fb_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/9bc489481ace11e3aca322000a1fa76a_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/9bc489481ace11e3aca322000a1fa76a_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/a85cca1c2a7d11e39bf922000ab5b971_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/a85cca1c2a7d11e39bf922000ab5b971_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/d720325c2f3311e3b41222000a1f8cb0_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/d720325c2f3311e3b41222000a1f8cb0_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/f3f72dc42f3111e3ba2c1231391eb9f5_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/images/f3f72dc42f3111e3ba2c1231391eb9f5_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/index/model/Photo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/index/view/Bill/report.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/img/js/jquery.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runtime/log/201703/08.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runtime/log/201703/09.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runtime/temp/27222a22cfd2ff6b66e0258946b3353b.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runtime/temp/5d602df5d5d6a5b18403275059d12ce9.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runtime/temp/61604f64e27c0a2a5a5955c334643b3f.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runtime/temp/985b9ffba9416eece7edb2b22e98ef6f.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/runtime/temp/9d8d6b0bdcab60b58e107e7731963dab.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/database.php" afterPath="$PROJECT_DIR$/application/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/index/controller/Admin.php" afterPath="$PROJECT_DIR$/application/index/controller/Admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/index/controller/Bill.php" afterPath="$PROJECT_DIR$/application/index/controller/Bill.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/index/controller/Photoes.php" afterPath="$PROJECT_DIR$/application/index/controller/Photoes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/index/model/Admin.php" afterPath="$PROJECT_DIR$/application/index/model/Admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/index/view/Admin/login.html" afterPath="$PROJECT_DIR$/application/index/view/Admin/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/index/view/Bill/add.html" afterPath="$PROJECT_DIR$/application/index/view/Bill/add.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/index/view/Photoes/add.html" afterPath="$PROJECT_DIR$/application/index/view/Photoes/add.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/index/view/Photoes/index.html" afterPath="$PROJECT_DIR$/application/index/view/Photoes/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/index/view/public/leftmenu.html" afterPath="$PROJECT_DIR$/application/index/view/public/leftmenu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/index/view/Bill/report.html" afterPath="$PROJECT_DIR$/application/index/view/Bill/report.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,8 +35,8 @@
       <file leaf-file-name="report.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/index/view/Bill/report.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="243">
+              <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -480,12 +442,12 @@
       <workItem from="1489023338235" duration="6588000" />
       <workItem from="1489032468327" duration="815000" />
       <workItem from="1489039191994" duration="1042000" />
-      <workItem from="1489041571334" duration="249000" />
+      <workItem from="1489041571334" duration="810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80519000" />
+    <option name="totallyTimeSpent" value="81080000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -497,7 +459,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1924" height="1066" extended-state="1" />
+    <frame x="-8" y="-8" width="1924" height="1066" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18133047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -777,8 +739,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/index/view/Bill/report.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="243">
+          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
           <folding />
         </state>
       </provider>
