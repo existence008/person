@@ -40,6 +40,7 @@ class Weixin extends Auth {
     //微信用户管理
     public function userlist()
     {
+        echo "1231";
     	return $this->fetch("Weixin/userlist");
     }
 }
