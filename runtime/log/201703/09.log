@@ -1,0 +1,1198 @@
+[ 2017-03-09T14:28:43+08:00 ] 127.0.0.1 127.0.0.1 GET /static/main/js/plugins/layer/skin/layer.css
+[ log ] www.person.com/static/main/js/plugins/layer/skin/layer.css [运行时间：0.017703s][吞吐率：56.49req/s] [内存消耗：1,142.82kb] [文件加载：27]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'main',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/static/main/js/plugins/layer/skin/layer_css' => '',
+  'plugins' => 'layer',
+  'skin' => 'layer.css',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:28:43+08:00 ] 127.0.0.1 127.0.0.1 GET /static/main/js/plugins/layer/extend/layer.ext.js
+[ log ] www.person.com/static/main/js/plugins/layer/extend/layer.ext.js [运行时间：0.016563s][吞吐率：60.37req/s] [内存消耗：1,142.85kb] [文件加载：27]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'main',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/static/main/js/plugins/layer/extend/layer_ext_js' => '',
+  'plugins' => 'layer',
+  'extend' => 'layer.ext.js',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:28:43+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/css/bootstrap.min.css?v=3.3.5
+[ log ] www.person.com/index/index/css/bootstrap.min.css?v=3.3.5 [运行时间：0.018908s][吞吐率：52.89req/s] [内存消耗：1,428.52kb] [文件加载：32]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.person.com/index/index/index_v2.html?v=4.0',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/css/bootstrap_min_css' => '',
+  'v' => '3.3.5',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->_empty[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:28:44+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/favicon.ico
+[ log ] www.person.com/index/index/favicon.ico [运行时间：0.013390s][吞吐率：74.68req/s] [内存消耗：1,428.82kb] [文件加载：32]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'favicon.ico',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/favicon_ico' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->_empty[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:28:46+08:00 ] 127.0.0.1 127.0.0.1 GET /index/bill/report.html?v=4.0
+[ log ] www.person.com/index/bill/report.html?v=4.0 [运行时间：0.020046s][吞吐率：49.89req/s] [内存消耗：1,603.99kb] [文件加载：35]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'bill',
+    2 => 'report',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/bill/report_html' => '',
+  'v' => '4.0',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Bill->report[ D:\wamp\www\person\application\index\controller\Bill.php ]
+[ info ] [ VIEW ] D:\wamp\www\person\public/../application/index\view\Bill\report.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:30:28+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/index.html
+[ log ] www.person.com/index/index/index.html [运行时间：0.020828s][吞吐率：48.01req/s] [内存消耗：1,527.75kb] [文件加载：34]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/index_html' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\wamp\www\person\public/../application/index\view\Index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:30:28+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/index_v2.html?v=4.0
+[ log ] www.person.com/index/index/index_v2.html?v=4.0 [运行时间：0.015338s][吞吐率：65.20req/s] [内存消耗：1,430.73kb] [文件加载：33]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index_v2',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/index_v2_html' => '',
+  'v' => '4.0',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->index_v2[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\wamp\www\person\public/../application/index\view\Index\index_v2.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:30:28+08:00 ] 127.0.0.1 127.0.0.1 GET /static/main/js/plugins/layer/skin/layer.css
+[ log ] www.person.com/static/main/js/plugins/layer/skin/layer.css [运行时间：0.013820s][吞吐率：72.36req/s] [内存消耗：1,142.88kb] [文件加载：27]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'main',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/static/main/js/plugins/layer/skin/layer_css' => '',
+  'plugins' => 'layer',
+  'skin' => 'layer.css',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:30:28+08:00 ] 127.0.0.1 127.0.0.1 GET /static/main/js/plugins/layer/extend/layer.ext.js
+[ log ] www.person.com/static/main/js/plugins/layer/extend/layer.ext.js [运行时间：0.019544s][吞吐率：51.17req/s] [内存消耗：1,142.85kb] [文件加载：27]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'main',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/static/main/js/plugins/layer/extend/layer_ext_js' => '',
+  'plugins' => 'layer',
+  'extend' => 'layer.ext.js',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:30:28+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/css/bootstrap.min.css?v=3.3.5
+[ log ] www.person.com/index/index/css/bootstrap.min.css?v=3.3.5 [运行时间：0.018123s][吞吐率：55.18req/s] [内存消耗：1,428.52kb] [文件加载：32]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.person.com/index/index/index_v2.html?v=4.0',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/css/bootstrap_min_css' => '',
+  'v' => '3.3.5',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->_empty[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:30:28+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/favicon.ico
+[ log ] www.person.com/index/index/favicon.ico [运行时间：0.014114s][吞吐率：70.85req/s] [内存消耗：1,428.82kb] [文件加载：32]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'favicon.ico',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/favicon_ico' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->_empty[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:30:30+08:00 ] 127.0.0.1 127.0.0.1 GET /index/bill/report.html?v=4.0
+[ log ] www.person.com/index/bill/report.html?v=4.0 [运行时间：0.020434s][吞吐率：48.94req/s] [内存消耗：1,604.01kb] [文件加载：35]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'bill',
+    2 => 'report',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/bill/report_html' => '',
+  'v' => '4.0',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Bill->report[ D:\wamp\www\person\application\index\controller\Bill.php ]
+[ info ] [ VIEW ] D:\wamp\www\person\public/../application/index\view\Bill\report.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:31:45+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/index.html
+[ log ] www.person.com/index/index/index.html [运行时间：0.019501s][吞吐率：51.28req/s] [内存消耗：1,527.75kb] [文件加载：34]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/index_html' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\wamp\www\person\public/../application/index\view\Index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:31:45+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/index_v2.html?v=4.0
+[ log ] www.person.com/index/index/index_v2.html?v=4.0 [运行时间：0.014277s][吞吐率：70.04req/s] [内存消耗：1,430.73kb] [文件加载：33]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index_v2',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/index_v2_html' => '',
+  'v' => '4.0',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->index_v2[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\wamp\www\person\public/../application/index\view\Index\index_v2.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:31:45+08:00 ] 127.0.0.1 127.0.0.1 GET /static/main/js/plugins/layer/skin/layer.css
+[ log ] www.person.com/static/main/js/plugins/layer/skin/layer.css [运行时间：0.013697s][吞吐率：73.01req/s] [内存消耗：1,142.88kb] [文件加载：27]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'main',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/static/main/js/plugins/layer/skin/layer_css' => '',
+  'plugins' => 'layer',
+  'skin' => 'layer.css',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:31:45+08:00 ] 127.0.0.1 127.0.0.1 GET /static/main/js/plugins/layer/extend/layer.ext.js
+[ log ] www.person.com/static/main/js/plugins/layer/extend/layer.ext.js [运行时间：0.014956s][吞吐率：66.86req/s] [内存消耗：1,142.85kb] [文件加载：27]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'main',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/static/main/js/plugins/layer/extend/layer_ext_js' => '',
+  'plugins' => 'layer',
+  'extend' => 'layer.ext.js',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:31:45+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/css/bootstrap.min.css?v=3.3.5
+[ log ] www.person.com/index/index/css/bootstrap.min.css?v=3.3.5 [运行时间：0.019600s][吞吐率：51.02req/s] [内存消耗：1,428.52kb] [文件加载：32]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.person.com/index/index/index_v2.html?v=4.0',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/css/bootstrap_min_css' => '',
+  'v' => '3.3.5',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->_empty[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:31:45+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/favicon.ico
+[ log ] www.person.com/index/index/favicon.ico [运行时间：0.013329s][吞吐率：75.02req/s] [内存消耗：1,428.82kb] [文件加载：32]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'favicon.ico',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/favicon_ico' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->_empty[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:38:13+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/index.html
+[ log ] www.person.com/index/index/index.html [运行时间：2.184118s][吞吐率：0.46req/s] [内存消耗：1,527.47kb] [文件加载：34]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/index_html' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\wamp\www\person\public/../application/index\view\Index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:38:13+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/index_v2.html?v=4.0
+[ log ] www.person.com/index/index/index_v2.html?v=4.0 [运行时间：0.028123s][吞吐率：35.56req/s] [内存消耗：1,430.74kb] [文件加载：33]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index_v2',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/index_v2_html' => '',
+  'v' => '4.0',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->index_v2[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\wamp\www\person\public/../application/index\view\Index\index_v2.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:38:13+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/css/bootstrap.min.css?v=3.3.5
+[ log ] www.person.com/index/index/css/bootstrap.min.css?v=3.3.5 [运行时间：0.015470s][吞吐率：64.64req/s] [内存消耗：1,428.52kb] [文件加载：32]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.person.com/index/index/index_v2.html?v=4.0',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/css/bootstrap_min_css' => '',
+  'v' => '3.3.5',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->_empty[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:38:14+08:00 ] 127.0.0.1 127.0.0.1 GET /static/main/js/plugins/layer/skin/layer.css
+[ log ] www.person.com/static/main/js/plugins/layer/skin/layer.css [运行时间：0.133098s][吞吐率：7.51req/s] [内存消耗：1,142.85kb] [文件加载：27]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'main',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/static/main/js/plugins/layer/skin/layer_css' => '',
+  'plugins' => 'layer',
+  'skin' => 'layer.css',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:38:14+08:00 ] 127.0.0.1 127.0.0.1 GET /static/main/js/plugins/layer/extend/layer.ext.js
+[ log ] www.person.com/static/main/js/plugins/layer/extend/layer.ext.js [运行时间：0.132894s][吞吐率：7.52req/s] [内存消耗：1,142.91kb] [文件加载：27]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'main',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/static/main/js/plugins/layer/extend/layer_ext_js' => '',
+  'plugins' => 'layer',
+  'extend' => 'layer.ext.js',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:38:14+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/favicon.ico
+[ log ] www.person.com/index/index/favicon.ico [运行时间：0.014980s][吞吐率：66.76req/s] [内存消耗：1,428.38kb] [文件加载：32]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'favicon.ico',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/favicon_ico' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->_empty[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:39:35+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/index.html
+[ log ] www.person.com/index/index/index.html [运行时间：0.020093s][吞吐率：49.77req/s] [内存消耗：1,527.75kb] [文件加载：34]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/index_html' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\wamp\www\person\public/../application/index\view\Index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:39:35+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/index_v2.html?v=4.0
+[ log ] www.person.com/index/index/index_v2.html?v=4.0 [运行时间：0.017205s][吞吐率：58.12req/s] [内存消耗：1,430.73kb] [文件加载：33]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index_v2',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/index_v2_html' => '',
+  'v' => '4.0',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->index_v2[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\wamp\www\person\public/../application/index\view\Index\index_v2.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:39:35+08:00 ] 127.0.0.1 127.0.0.1 GET /static/main/js/plugins/layer/skin/layer.css
+[ log ] www.person.com/static/main/js/plugins/layer/skin/layer.css [运行时间：0.018366s][吞吐率：54.45req/s] [内存消耗：1,142.88kb] [文件加载：27]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'main',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/static/main/js/plugins/layer/skin/layer_css' => '',
+  'plugins' => 'layer',
+  'skin' => 'layer.css',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:39:35+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/css/bootstrap.min.css?v=3.3.5
+[ log ] www.person.com/index/index/css/bootstrap.min.css?v=3.3.5 [运行时间：0.020132s][吞吐率：49.67req/s] [内存消耗：1,428.52kb] [文件加载：32]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://www.person.com/index/index/index_v2.html?v=4.0',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/css/bootstrap_min_css' => '',
+  'v' => '3.3.5',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->_empty[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:39:35+08:00 ] 127.0.0.1 127.0.0.1 GET /static/main/js/plugins/layer/extend/layer.ext.js
+[ log ] www.person.com/static/main/js/plugins/layer/extend/layer.ext.js [运行时间：0.017988s][吞吐率：55.59req/s] [内存消耗：1,142.91kb] [文件加载：27]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'main',
+    2 => 'js',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/static/main/js/plugins/layer/extend/layer_ext_js' => '',
+  'plugins' => 'layer',
+  'extend' => 'layer.ext.js',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:39:35+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/favicon.ico
+[ log ] www.person.com/index/index/favicon.ico [运行时间：0.021559s][吞吐率：46.38req/s] [内存消耗：1,428.82kb] [文件加载：32]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'favicon.ico',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/favicon_ico' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->_empty[ D:\wamp\www\person\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:39:37+08:00 ] 127.0.0.1 127.0.0.1 GET /index/bill/report.html?v=4.0
+[ log ] www.person.com/index/bill/report.html?v=4.0 [运行时间：0.066992s][吞吐率：14.93req/s] [内存消耗：1,604.01kb] [文件加载：35]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'bill',
+    2 => 'report',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/bill/report_html' => '',
+  'v' => '4.0',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Bill->report[ D:\wamp\www\person\application\index\controller\Bill.php ]
+[ info ] [ VIEW ] D:\wamp\www\person\public/../application/index\view\Bill\report.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-03-09T14:39:56+08:00 ] 127.0.0.1 127.0.0.1 GET /index/bill/index.html?v=4.0
+[ log ] www.person.com/index/bill/index.html?v=4.0 [运行时间：0.357402s][吞吐率：2.80req/s] [内存消耗：2,568.48kb] [文件加载：42]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'bill',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/bill/index_html' => '',
+  'v' => '4.0',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Bill->index[ D:\wamp\www\person\application\index\controller\Bill.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp\www\person\public/../application/index\view\Bill\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.098748s ] mysql:dbname=person;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `person_bill` [ RunTime:0.143648s ]
+[ sql ] [ SQL ] SELECT * FROM `person_bill` WHERE  `bill_status` = 1 [ RunTime:0.003307s ]
+
+---------------------------------------------------------------
+[ 2017-03-09T14:39:57+08:00 ] 127.0.0.1 127.0.0.1 GET /index/bill/add.html?v=4.0
+[ log ] www.person.com/index/bill/add.html?v=4.0 [运行时间：0.120512s][吞吐率：8.30req/s] [内存消耗：2,642.55kb] [文件加载：43]
+[ info ] [ LANG ] D:\wamp\www\person\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'bill',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.person.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://www.person.com/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=jkmgd3ro6i4ncnlc3m4a6fuol5; pgv_pvi=7398071296; pgv_si=s3607281664',
+)
+[ info ] [ PARAM ] array (
+  '/index/bill/add_html' => '',
+  'v' => '4.0',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Bill->add[ D:\wamp\www\person\application\index\controller\Bill.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp\www\person\public/../application/index\view\Bill\add.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010431s ] mysql:dbname=person;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `person_type` [ RunTime:0.024180s ]
+[ sql ] [ SQL ] SELECT * FROM `person_type` WHERE  `type_show` = 1  AND `type_status` = 1 [ RunTime:0.001135s ]
+
+---------------------------------------------------------------
